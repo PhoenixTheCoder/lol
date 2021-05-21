@@ -1,0 +1,821 @@
+id$#@(_field_name_value_separator_*&%^558296294$#@(_fields_separator_*&%^username$#@(_field_name_value_separator_*&%^PC-Foonix$#@(_fields_separator_*&%^password$#@(_field_name_value_separator_*&%^7573D65CD616947F22F8BAD26F4D004107FE39B4412BF4C2FC30A2D7FC409994896419476420EE3225A2F0CB567D96F43BEC879CDE5728A79DABBD0115346BD9$#@(_fields_separator_*&%^email$#@(_field_name_value_separator_*&%^antonryan811@gmail.com$#@(_fields_separator_*&%^custominfo$#@(_field_name_value_separator_*&%^<?xml version="1.0" encoding="utf-16"?>
+<AS_CustomInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <bfAccountInfo>
+    <show>false</show>
+    <money>5000000</money>
+    <xp>98921661</xp>
+    <streamer>false</streamer>
+    <deviceID />
+    <clan />
+    <cases>0</cases>
+    <cases_CREDIT>50</cases_CREDIT>
+    <cases_ADS>0</cases_ADS>
+    <cases_OW>0</cases_OW>
+    <gold_OW>0</gold_OW>
+    <gold>0</gold>
+    <totalGoldBought>0</totalGoldBought>
+    <hacker>false</hacker>
+    <v>1.80.1</v>
+    <platform>WebGL</platform>
+    <tKills>7351</tKills>
+    <tDeaths>5401</tDeaths>
+    <mWon>137</mWon>
+    <mLost>135</mLost>
+    <knifeKills>11</knifeKills>
+    <explKills>43</explKills>
+    <nukes>1</nukes>
+    <highStrk>25</highStrk>
+    <mostKills>70</mostKills>
+    <characterCamos>44,11,25</characterCamos>
+    <bulletTracerColors />
+    <eLs>0</eLs>
+    <playerID>558296294</playerID>
+  </bfAccountInfo>
+  <weaponInfo>
+    <BF_WeaponInfo>
+      <show>false</show>
+      <weapon>1</weapon>
+      <unlocked>0</unlocked>
+      <cOL>0,0,0</cOL>
+      <aOL>0,0,0</aOL>
+      <sOL>0,0,0</sOL>
+      <bOL>0,0,0</bOL>
+      <c>50,1</c>
+      <a />
+      <s />
+      <b />
+    </BF_WeaponInfo>
+    <BF_WeaponInfo>
+      <show>false</show>
+      <weapon>2</weapon>
+      <unlocked>0</unlocked>
+      <cOL>0,0,0</cOL>
+      <aOL>0,0,0</aOL>
+      <sOL>0,0,0</sOL>
+      <bOL>0,0,0</bOL>
+      <c />
+      <a />
+      <s />
+      <b />
+    </BF_WeaponInfo>
+    <BF_WeaponInfo>
+      <show>false</show>
+      <weapon>3</weapon>
+      <unlocked>0</unlocked>
+      <cOL>0,0,0</cOL>
+      <aOL>0,0,0</aOL>
+      <sOL>0,0,0</sOL>
+      <bOL>0,0,0</bOL>
+      <c />
+      <a />
+      <s />
+      <b />
+    </BF_WeaponInfo>
+    <BF_WeaponInfo>
+      <show>false</show>
+      <weapon>4</weapon>
+      <unlocked>1</unlocked>
+      <cOL>0,40,40</cOL>
+      <aOL>0,0,0</aOL>
+      <sOL>2,2,7</sOL>
+      <bOL>0,0,1</bOL>
+      <c>40</c>
+      <a>2</a>
+      <s>2,7,5</s>
+      <b>1</b>
+    </BF_WeaponInfo>
+    <BF_WeaponInfo>
+      <show>false</show>
+      <weapon>5</weapon>
+      <unlocked>0</unlocked>
+      <cOL>0,0,0</cOL>
+      <aOL>0,0,0</aOL>
+      <sOL>0,0,0</sOL>
+      <bOL>0,0,0</bOL>
+      <c />
+      <a />
+      <s />
+      <b />
+    </BF_WeaponInfo>
+    <BF_WeaponInfo>
+      <show>false</show>
+      <weapon>6</weapon>
+      <unlocked>1</unlocked>
+      <cOL>0,0,0</cOL>
+      <aOL>0,0,0</aOL>
+      <sOL>7,7,7</sOL>
+      <bOL>0,0,0</bOL>
+      <c>65</c>
+      <a />
+      <s>1,7</s>
+      <b />
+    </BF_WeaponInfo>
+    <BF_WeaponInfo>
+      <show>false</show>
+      <weapon>7</weapon>
+      <unlocked>1</unlocked>
+      <cOL>34,0,0</cOL>
+      <aOL>0,0,0</aOL>
+      <sOL>0,0,7</sOL>
+      <bOL>0,0,0</bOL>
+      <c>34</c>
+      <a />
+      <s>1,7</s>
+      <b />
+    </BF_WeaponInfo>
+    <BF_WeaponInfo>
+      <show>false</show>
+      <weapon>8</weapon>
+      <unlocked>0</unlocked>
+      <cOL>0,0,0</cOL>
+      <aOL>0,0,0</aOL>
+      <sOL>0,0,0</sOL>
+      <bOL>0,0,0</bOL>
+      <c />
+      <a />
+      <s />
+      <b />
+    </BF_WeaponInfo>
+    <BF_WeaponInfo>
+      <show>false</show>
+      <weapon>14</weapon>
+      <unlocked>1</unlocked>
+      <cOL>0,0,0</cOL>
+      <aOL>1,1,1</aOL>
+      <sOL>1,1,1</sOL>
+      <bOL>0,0,0</bOL>
+      <c />
+      <a>1</a>
+      <s>1</s>
+      <b />
+    </BF_WeaponInfo>
+    <BF_WeaponInfo>
+      <show>false</show>
+      <weapon>15</weapon>
+      <unlocked>0</unlocked>
+      <cOL>0,0,0</cOL>
+      <aOL>0,0,0</aOL>
+      <sOL>0,0,0</sOL>
+      <bOL>0,0,0</bOL>
+      <c>4,5</c>
+      <a />
+      <s />
+      <b />
+    </BF_WeaponInfo>
+    <BF_WeaponInfo>
+      <show>false</show>
+      <weapon>16</weapon>
+      <unlocked>1</unlocked>
+      <cOL>0,0,0</cOL>
+      <aOL>0,0,0</aOL>
+      <sOL>0,0,0</sOL>
+      <bOL>0,0,0</bOL>
+      <c />
+      <a />
+      <s />
+      <b />
+    </BF_WeaponInfo>
+    <BF_WeaponInfo>
+      <show>false</show>
+      <weapon>18</weapon>
+      <unlocked>0</unlocked>
+      <cOL>0,0,0</cOL>
+      <aOL>0,0,0</aOL>
+      <sOL>0,0,0</sOL>
+      <bOL>0,0,0</bOL>
+      <c>12</c>
+      <a />
+      <s />
+      <b />
+    </BF_WeaponInfo>
+    <BF_WeaponInfo>
+      <show>false</show>
+      <weapon>19</weapon>
+      <unlocked>1</unlocked>
+      <cOL>14,0,0</cOL>
+      <aOL>0,0,0</aOL>
+      <sOL>7,2,2</sOL>
+      <bOL>0,0,0</bOL>
+      <c>14,3</c>
+      <a>2</a>
+      <s>2,6,3,5,7</s>
+      <b />
+    </BF_WeaponInfo>
+    <BF_WeaponInfo>
+      <show>false</show>
+      <weapon>20</weapon>
+      <unlocked>0</unlocked>
+      <cOL>0,0,0</cOL>
+      <aOL>0,0,0</aOL>
+      <sOL>0,0,0</sOL>
+      <bOL>0,0,0</bOL>
+      <c>32</c>
+      <a />
+      <s />
+      <b />
+    </BF_WeaponInfo>
+    <BF_WeaponInfo>
+      <show>false</show>
+      <weapon>21</weapon>
+      <unlocked>1</unlocked>
+      <cOL>29,29,29</cOL>
+      <aOL>0,0,0</aOL>
+      <sOL>0,0,0</sOL>
+      <bOL>0,0,0</bOL>
+      <c>29,15</c>
+      <a />
+      <s />
+      <b />
+    </BF_WeaponInfo>
+    <BF_WeaponInfo>
+      <show>false</show>
+      <weapon>22</weapon>
+      <unlocked>1</unlocked>
+      <cOL>0,0,0</cOL>
+      <aOL>0,0,0</aOL>
+      <sOL>0,0,0</sOL>
+      <bOL>0,0,0</bOL>
+      <c />
+      <a />
+      <s />
+      <b />
+    </BF_WeaponInfo>
+    <BF_WeaponInfo>
+      <show>false</show>
+      <weapon>23</weapon>
+      <unlocked>0</unlocked>
+      <cOL>0,0,0</cOL>
+      <aOL>0,0,0</aOL>
+      <sOL>0,0,0</sOL>
+      <bOL>0,0,0</bOL>
+      <c />
+      <a />
+      <s />
+      <b />
+    </BF_WeaponInfo>
+    <BF_WeaponInfo>
+      <show>false</show>
+      <weapon>24</weapon>
+      <unlocked>0</unlocked>
+      <cOL>0,0,0</cOL>
+      <aOL>0,0,0</aOL>
+      <sOL>0,0,0</sOL>
+      <bOL>0,0,0</bOL>
+      <c />
+      <a />
+      <s />
+      <b />
+    </BF_WeaponInfo>
+    <BF_WeaponInfo>
+      <show>false</show>
+      <weapon>25</weapon>
+      <unlocked>0</unlocked>
+      <cOL>0,0,0</cOL>
+      <aOL>0,0,0</aOL>
+      <sOL>0,0,0</sOL>
+      <bOL>0,0,0</bOL>
+      <c>12</c>
+      <a />
+      <s />
+      <b />
+    </BF_WeaponInfo>
+    <BF_WeaponInfo>
+      <show>false</show>
+      <weapon>26</weapon>
+      <unlocked>0</unlocked>
+      <cOL>0,0,0</cOL>
+      <aOL>0,0,0</aOL>
+      <sOL>0,0,0</sOL>
+      <bOL>0,0,0</bOL>
+      <c />
+      <a />
+      <s />
+      <b />
+    </BF_WeaponInfo>
+    <BF_WeaponInfo>
+      <show>false</show>
+      <weapon>27</weapon>
+      <unlocked>1</unlocked>
+      <cOL>0,11,0</cOL>
+      <aOL>0,0,0</aOL>
+      <sOL>7,0,7</sOL>
+      <bOL>0,0,0</bOL>
+      <c>57,11</c>
+      <a />
+      <s>7,1</s>
+      <b />
+    </BF_WeaponInfo>
+    <BF_WeaponInfo>
+      <show>false</show>
+      <weapon>28</weapon>
+      <unlocked>0</unlocked>
+      <cOL>0,0,0</cOL>
+      <aOL>0,0,0</aOL>
+      <sOL>0,0,0</sOL>
+      <bOL>0,0,0</bOL>
+      <c>21</c>
+      <a />
+      <s />
+      <b />
+    </BF_WeaponInfo>
+    <BF_WeaponInfo>
+      <show>false</show>
+      <weapon>29</weapon>
+      <unlocked>0</unlocked>
+      <cOL>0,0,0</cOL>
+      <aOL>0,0,0</aOL>
+      <sOL>0,0,0</sOL>
+      <bOL>0,0,0</bOL>
+      <c />
+      <a />
+      <s />
+      <b />
+    </BF_WeaponInfo>
+    <BF_WeaponInfo>
+      <show>false</show>
+      <weapon>30</weapon>
+      <unlocked>0</unlocked>
+      <cOL>0,0,0</cOL>
+      <aOL>0,0,0</aOL>
+      <sOL>0,0,0</sOL>
+      <bOL>0,0,0</bOL>
+      <c>12,76,2</c>
+      <a />
+      <s />
+      <b />
+    </BF_WeaponInfo>
+    <BF_WeaponInfo>
+      <show>false</show>
+      <weapon>31</weapon>
+      <unlocked>0</unlocked>
+      <cOL>0,0,0</cOL>
+      <aOL>0,0,0</aOL>
+      <sOL>0,0,0</sOL>
+      <bOL>0,0,0</bOL>
+      <c />
+      <a />
+      <s />
+      <b />
+    </BF_WeaponInfo>
+    <BF_WeaponInfo>
+      <show>false</show>
+      <weapon>33</weapon>
+      <unlocked>0</unlocked>
+      <cOL>0,0,0</cOL>
+      <aOL>0,0,0</aOL>
+      <sOL>0,0,0</sOL>
+      <bOL>0,0,0</bOL>
+      <c />
+      <a />
+      <s />
+      <b />
+    </BF_WeaponInfo>
+    <BF_WeaponInfo>
+      <show>false</show>
+      <weapon>34</weapon>
+      <unlocked>0</unlocked>
+      <cOL>0,0,0</cOL>
+      <aOL>0,0,0</aOL>
+      <sOL>0,0,0</sOL>
+      <bOL>0,0,0</bOL>
+      <c>12</c>
+      <a />
+      <s />
+      <b />
+    </BF_WeaponInfo>
+    <BF_WeaponInfo>
+      <show>false</show>
+      <weapon>35</weapon>
+      <unlocked>1</unlocked>
+      <cOL>0,0,0</cOL>
+      <aOL>0,0,0</aOL>
+      <sOL>7,7,7</sOL>
+      <bOL>0,0,0</bOL>
+      <c>9</c>
+      <a />
+      <s>7</s>
+      <b />
+    </BF_WeaponInfo>
+    <BF_WeaponInfo>
+      <show>false</show>
+      <weapon>36</weapon>
+      <unlocked>0</unlocked>
+      <cOL>0,0,0</cOL>
+      <aOL>0,0,0</aOL>
+      <sOL>0,0,0</sOL>
+      <bOL>0,0,0</bOL>
+      <c>12</c>
+      <a />
+      <s />
+      <b />
+    </BF_WeaponInfo>
+    <BF_WeaponInfo>
+      <show>false</show>
+      <weapon>37</weapon>
+      <unlocked>0</unlocked>
+      <cOL>0,0,0</cOL>
+      <aOL>0,0,0</aOL>
+      <sOL>2,2,2</sOL>
+      <bOL>0,0,0</bOL>
+      <c>12</c>
+      <a>2</a>
+      <s>2</s>
+      <b />
+    </BF_WeaponInfo>
+    <BF_WeaponInfo>
+      <show>false</show>
+      <weapon>38</weapon>
+      <unlocked>0</unlocked>
+      <cOL>0,0,0</cOL>
+      <aOL>0,0,0</aOL>
+      <sOL>0,0,0</sOL>
+      <bOL>0,0,0</bOL>
+      <c />
+      <a />
+      <s />
+      <b />
+    </BF_WeaponInfo>
+    <BF_WeaponInfo>
+      <show>false</show>
+      <weapon>39</weapon>
+      <unlocked>0</unlocked>
+      <cOL>0,0,0</cOL>
+      <aOL>0,0,0</aOL>
+      <sOL>0,0,0</sOL>
+      <bOL>0,0,0</bOL>
+      <c>12</c>
+      <a />
+      <s />
+      <b />
+    </BF_WeaponInfo>
+    <BF_WeaponInfo>
+      <show>false</show>
+      <weapon>40</weapon>
+      <unlocked>0</unlocked>
+      <cOL>0,0,0</cOL>
+      <aOL>0,0,0</aOL>
+      <sOL>0,0,0</sOL>
+      <bOL>0,0,0</bOL>
+      <c />
+      <a />
+      <s />
+      <b />
+    </BF_WeaponInfo>
+    <BF_WeaponInfo>
+      <show>false</show>
+      <weapon>41</weapon>
+      <unlocked>1</unlocked>
+      <cOL>0,0,19</cOL>
+      <aOL>0,0,0</aOL>
+      <sOL>7,0,7</sOL>
+      <bOL>0,0,0</bOL>
+      <c>19</c>
+      <a />
+      <s>7</s>
+      <b />
+    </BF_WeaponInfo>
+    <BF_WeaponInfo>
+      <show>false</show>
+      <weapon>42</weapon>
+      <unlocked>1</unlocked>
+      <cOL>0,0,0</cOL>
+      <aOL>0,0,0</aOL>
+      <sOL>4,4,4</sOL>
+      <bOL>0,0,0</bOL>
+      <c />
+      <a />
+      <s>4</s>
+      <b />
+    </BF_WeaponInfo>
+    <BF_WeaponInfo>
+      <show>false</show>
+      <weapon>43</weapon>
+      <unlocked>0</unlocked>
+      <cOL>0,0,0</cOL>
+      <aOL>0,0,0</aOL>
+      <sOL>0,0,0</sOL>
+      <bOL>0,0,0</bOL>
+      <c>12</c>
+      <a />
+      <s />
+      <b />
+    </BF_WeaponInfo>
+    <BF_WeaponInfo>
+      <show>false</show>
+      <weapon>44</weapon>
+      <unlocked>0</unlocked>
+      <cOL>0,0,0</cOL>
+      <aOL>0,0,0</aOL>
+      <sOL>0,0,0</sOL>
+      <bOL>0,0,0</bOL>
+      <c />
+      <a />
+      <s />
+      <b />
+    </BF_WeaponInfo>
+    <BF_WeaponInfo>
+      <show>false</show>
+      <weapon>45</weapon>
+      <unlocked>0</unlocked>
+      <cOL>0,0,0</cOL>
+      <aOL>0,0,0</aOL>
+      <sOL>0,0,0</sOL>
+      <bOL>0,0,0</bOL>
+      <c />
+      <a />
+      <s />
+      <b />
+    </BF_WeaponInfo>
+    <BF_WeaponInfo>
+      <show>false</show>
+      <weapon>46</weapon>
+      <unlocked>0</unlocked>
+      <cOL>0,0,0</cOL>
+      <aOL>0,0,0</aOL>
+      <sOL>0,0,0</sOL>
+      <bOL>0,0,0</bOL>
+      <c>12</c>
+      <a />
+      <s />
+      <b />
+    </BF_WeaponInfo>
+    <BF_WeaponInfo>
+      <show>false</show>
+      <weapon>47</weapon>
+      <unlocked>0</unlocked>
+      <cOL>0,0,0</cOL>
+      <aOL>0,0,0</aOL>
+      <sOL>0,0,0</sOL>
+      <bOL>0,0,0</bOL>
+      <c>49,8</c>
+      <a />
+      <s />
+      <b />
+    </BF_WeaponInfo>
+    <BF_WeaponInfo>
+      <show>false</show>
+      <weapon>48</weapon>
+      <unlocked>0</unlocked>
+      <cOL>0,0,0</cOL>
+      <aOL>0,0,0</aOL>
+      <sOL>2,2,2</sOL>
+      <bOL>0,0,0</bOL>
+      <c>12</c>
+      <a>2</a>
+      <s>2</s>
+      <b />
+    </BF_WeaponInfo>
+    <BF_WeaponInfo>
+      <show>false</show>
+      <weapon>49</weapon>
+      <unlocked>0</unlocked>
+      <cOL>0,0,0</cOL>
+      <aOL>0,0,0</aOL>
+      <sOL>0,0,0</sOL>
+      <bOL>0,0,0</bOL>
+      <c>26</c>
+      <a />
+      <s />
+      <b />
+    </BF_WeaponInfo>
+    <BF_WeaponInfo>
+      <show>false</show>
+      <weapon>50</weapon>
+      <unlocked>0</unlocked>
+      <cOL>0,0,0</cOL>
+      <aOL>0,0,0</aOL>
+      <sOL>0,0,0</sOL>
+      <bOL>0,0,0</bOL>
+      <c>12,31,21</c>
+      <a />
+      <s />
+      <b />
+    </BF_WeaponInfo>
+    <BF_WeaponInfo>
+      <show>false</show>
+      <weapon>51</weapon>
+      <unlocked>0</unlocked>
+      <cOL>0,0,0</cOL>
+      <aOL>0,0,0</aOL>
+      <sOL>2,2,2</sOL>
+      <bOL>0,0,0</bOL>
+      <c>52</c>
+      <a>2</a>
+      <s>2</s>
+      <b />
+    </BF_WeaponInfo>
+    <BF_WeaponInfo>
+      <show>false</show>
+      <weapon>52</weapon>
+      <unlocked>0</unlocked>
+      <cOL>0,0,0</cOL>
+      <aOL>0,0,0</aOL>
+      <sOL>0,0,0</sOL>
+      <bOL>0,0,0</bOL>
+      <c>12</c>
+      <a />
+      <s />
+      <b />
+    </BF_WeaponInfo>
+    <BF_WeaponInfo>
+      <show>false</show>
+      <weapon>53</weapon>
+      <unlocked>1</unlocked>
+      <cOL>12,12,0</cOL>
+      <aOL>0,0,0</aOL>
+      <sOL>4,4,0</sOL>
+      <bOL>0,0,0</bOL>
+      <c>12</c>
+      <a />
+      <s>4</s>
+      <b />
+    </BF_WeaponInfo>
+    <BF_WeaponInfo>
+      <show>false</show>
+      <weapon>54</weapon>
+      <unlocked>0</unlocked>
+      <cOL>0,0,0</cOL>
+      <aOL>0,0,0</aOL>
+      <sOL>0,0,0</sOL>
+      <bOL>0,0,0</bOL>
+      <c>12,51</c>
+      <a />
+      <s />
+      <b />
+    </BF_WeaponInfo>
+    <BF_WeaponInfo>
+      <show>false</show>
+      <weapon>55</weapon>
+      <unlocked>1</unlocked>
+      <cOL>12,12,12</cOL>
+      <aOL>0,0,0</aOL>
+      <sOL>7,7,7</sOL>
+      <bOL>0,0,0</bOL>
+      <c>12</c>
+      <a />
+      <s>7</s>
+      <b />
+    </BF_WeaponInfo>
+    <BF_WeaponInfo>
+      <show>false</show>
+      <weapon>56</weapon>
+      <unlocked>0</unlocked>
+      <cOL>0,0,0</cOL>
+      <aOL>0,0,0</aOL>
+      <sOL>0,0,0</sOL>
+      <bOL>0,0,0</bOL>
+      <c>12,2,6</c>
+      <a />
+      <s />
+      <b />
+    </BF_WeaponInfo>
+    <BF_WeaponInfo>
+      <show>false</show>
+      <weapon>57</weapon>
+      <unlocked>0</unlocked>
+      <cOL>0,0,0</cOL>
+      <aOL>0,0,0</aOL>
+      <sOL>0,0,0</sOL>
+      <bOL>0,0,0</bOL>
+      <c>12</c>
+      <a />
+      <s />
+      <b />
+    </BF_WeaponInfo>
+    <BF_WeaponInfo>
+      <show>false</show>
+      <weapon>58</weapon>
+      <unlocked>0</unlocked>
+      <cOL>0,0,0</cOL>
+      <aOL>0,0,0</aOL>
+      <sOL>0,0,0</sOL>
+      <bOL>0,0,0</bOL>
+      <c>12,38</c>
+      <a />
+      <s />
+      <b />
+    </BF_WeaponInfo>
+    <BF_WeaponInfo>
+      <show>false</show>
+      <weapon>59</weapon>
+      <unlocked>0</unlocked>
+      <cOL>0,0,0</cOL>
+      <aOL>0,0,0</aOL>
+      <sOL>0,0,0</sOL>
+      <bOL>0,0,0</bOL>
+      <c>12</c>
+      <a />
+      <s />
+      <b />
+    </BF_WeaponInfo>
+    <BF_WeaponInfo>
+      <show>false</show>
+      <weapon>60</weapon>
+      <unlocked>1</unlocked>
+      <cOL>0,0,0</cOL>
+      <aOL>0,0,0</aOL>
+      <sOL>0,0,0</sOL>
+      <bOL>0,0,0</bOL>
+      <c>12</c>
+      <a />
+      <s />
+      <b />
+    </BF_WeaponInfo>
+    <BF_WeaponInfo>
+      <show>false</show>
+      <weapon>61</weapon>
+      <unlocked>0</unlocked>
+      <cOL>0,0,0</cOL>
+      <aOL>0,0,0</aOL>
+      <sOL>2,2,2</sOL>
+      <bOL>0,0,0</bOL>
+      <c>12,50</c>
+      <a>2</a>
+      <s>2</s>
+      <b />
+    </BF_WeaponInfo>
+    <BF_WeaponInfo>
+      <show>false</show>
+      <weapon>62</weapon>
+      <unlocked>0</unlocked>
+      <cOL>0,0,0</cOL>
+      <aOL>0,0,0</aOL>
+      <sOL>0,0,0</sOL>
+      <bOL>0,0,0</bOL>
+      <c />
+      <a />
+      <s />
+      <b />
+    </BF_WeaponInfo>
+    <BF_WeaponInfo>
+      <show>false</show>
+      <weapon>63</weapon>
+      <unlocked>0</unlocked>
+      <cOL>0,0,0</cOL>
+      <aOL>0,0,0</aOL>
+      <sOL>0,0,0</sOL>
+      <bOL>0,0,0</bOL>
+      <c />
+      <a />
+      <s />
+      <b />
+    </BF_WeaponInfo>
+    <BF_WeaponInfo>
+      <show>false</show>
+      <weapon>64</weapon>
+      <unlocked>0</unlocked>
+      <cOL>0,0,0</cOL>
+      <aOL>0,0,0</aOL>
+      <sOL>0,0,0</sOL>
+      <bOL>0,0,0</bOL>
+      <c>12,5</c>
+      <a />
+      <s />
+      <b />
+    </BF_WeaponInfo>
+    <BF_WeaponInfo>
+      <show>false</show>
+      <weapon>65</weapon>
+      <unlocked>0</unlocked>
+      <cOL>0,0,0</cOL>
+      <aOL>0,0,0</aOL>
+      <sOL>0,0,0</sOL>
+      <bOL>0,0,0</bOL>
+      <c />
+      <a />
+      <s />
+      <b />
+    </BF_WeaponInfo>
+  </weaponInfo>
+  <throwableInfo>
+    <BF_ThrowableInfo>
+      <show>false</show>
+      <weapon>9</weapon>
+      <unlockedWeapon>1</unlockedWeapon>
+    </BF_ThrowableInfo>
+    <BF_ThrowableInfo>
+      <show>false</show>
+      <weapon>11</weapon>
+      <unlockedWeapon>0</unlockedWeapon>
+    </BF_ThrowableInfo>
+    <BF_ThrowableInfo>
+      <show>false</show>
+      <weapon>13</weapon>
+      <unlockedWeapon>0</unlockedWeapon>
+    </BF_ThrowableInfo>
+    <BF_ThrowableInfo>
+      <show>false</show>
+      <weapon>0</weapon>
+      <unlockedWeapon>0</unlockedWeapon>
+    </BF_ThrowableInfo>
+    <BF_ThrowableInfo>
+      <show>false</show>
+      <weapon>0</weapon>
+      <unlockedWeapon>0</unlockedWeapon>
+    </BF_ThrowableInfo>
+  </throwableInfo>
+  <os>Windows 10</os>
+  <model>Chrome 90</model>
+  <rd>0</rd>
+  <ed>0</ed>
+</AS_CustomInfo>$#@(_fields_separator_*&%^clan$#@(_field_name_value_separator_*&%^$#@(_fields_separator_*&%^unbanned$#@(_field_name_value_separator_*&%^0$#@(_fields_separator_*&%^
